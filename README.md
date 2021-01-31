@@ -42,3 +42,7 @@ Featureset Exploration
 ### Target segment
 
 Individuals whose income is more than 50K
+
+
+## References:
+- Udacity's interpretation of the data
